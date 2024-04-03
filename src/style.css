@@ -1,5 +1,5 @@
 body{
-    background: pink;
+    background: #D19A99;
     text-align: center;
 }
 
@@ -14,7 +14,7 @@ header{
 
 form{
     padding: 30px;
-    background-color: aliceblue;
+    background-color: #FFE5D9;
     border-radius: 10px;
     display: flex;
     margin-bottom: 30px;
@@ -22,7 +22,7 @@ form{
 
 .instructions{
 padding: 16px;
-border: 1px solid white;
+border: 1px solid #D19A99;
 width: 80%;
 font-size: 16px;
 border-radius: 50px;
@@ -32,8 +32,8 @@ color: black;
 
 .submit-button{
     margin-left: 10px;
-    background: red;
-    color:orange ;
+    background: #D19A99;
+    color:white ;
     border: none;
     width: 150px;
     font-size: 16px;
@@ -43,7 +43,7 @@ color: black;
 
 .poem{
     font-size: 14px;
-    background-color: beige;
+    background: #FFE5D9;
     padding: 20px;
     line-height: 24px;
     border-left: 3px solid black;
