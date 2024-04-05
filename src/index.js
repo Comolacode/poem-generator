@@ -4,7 +4,7 @@ function generatePoem(event){
 let poemElement = document.querySelector("poem");
 
 new Typewriter("#poem", {
-  strings: ["poem poem poem poem"],
+  strings: "poem poem poem poem",
   autoStart: true,
   delay: 1,
   cursor: "",
